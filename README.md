@@ -1,2 +1,4 @@
 # IronMaiden
-Repo made in the github class.
+This repository made in the github class.
+
+- [x] feature added
